@@ -4,7 +4,7 @@
 
 include $(GOROOT)/src/Make.inc
 
-TARG=code.google.com/p/graphics-go/graphics/convolve
+TARG=github.com/robfig/graphics-go/graphics/convolve
 GOFILES=\
 	convolve.go\
 

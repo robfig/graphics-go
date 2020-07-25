@@ -10,7 +10,7 @@ import (
 	"image"
 	"image/draw"
 
-	"code.google.com/p/graphics-go/graphics"
+	"github.com/robfig/graphics-go/graphics"
 )
 
 // Canny detects and returns edges from the given image.
