@@ -5,7 +5,7 @@
 package graphics
 
 import (
-	"code.google.com/p/graphics-go/graphics/interp"
+	"github.com/robfig/graphics-go/graphics/interp"
 	"errors"
 	"image"
 	"image/draw"

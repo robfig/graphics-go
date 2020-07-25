@@ -10,7 +10,7 @@ import (
 	"image/draw"
 	"math"
 
-	"code.google.com/p/graphics-go/graphics/convolve"
+	"github.com/robfig/graphics-go/graphics/convolve"
 )
 
 var (
